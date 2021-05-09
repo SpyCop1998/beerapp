@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/beerapp/static/css/main.b862a87b.chunk.css",
+    "main.js": "/beerapp/static/js/main.7814c244.chunk.js",
+    "main.js.map": "/beerapp/static/js/main.7814c244.chunk.js.map",
+    "runtime-main.js": "/beerapp/static/js/runtime-main.208907d6.js",
+    "runtime-main.js.map": "/beerapp/static/js/runtime-main.208907d6.js.map",
+    "static/js/2.dba4f8f0.chunk.js": "/beerapp/static/js/2.dba4f8f0.chunk.js",
+    "static/js/2.dba4f8f0.chunk.js.map": "/beerapp/static/js/2.dba4f8f0.chunk.js.map",
+    "index.html": "/beerapp/index.html",
+    "static/css/main.b862a87b.chunk.css.map": "/beerapp/static/css/main.b862a87b.chunk.css.map",
+    "static/js/2.dba4f8f0.chunk.js.LICENSE.txt": "/beerapp/static/js/2.dba4f8f0.chunk.js.LICENSE.txt",
+    "static/media/about.0290bb5a.png": "/beerapp/static/media/about.0290bb5a.png",
+    "static/media/index.css": "/beerapp/static/media/presentation.2d949a93.png",
+    "static/media/download.52e6d6c5.png": "/beerapp/static/media/download.52e6d6c5.png",
+    "static/media/feature_1.801589a0.png": "/beerapp/static/media/feature_1.801589a0.png",
+    "static/media/feature_2.2b466162.png": "/beerapp/static/media/feature_2.2b466162.png",
+    "static/media/feature_3.0fadb17c.png": "/beerapp/static/media/feature_3.0fadb17c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.208907d6.js",
+    "static/js/2.dba4f8f0.chunk.js",
+    "static/css/main.b862a87b.chunk.css",
+    "static/js/main.7814c244.chunk.js"
+  ]
+}
